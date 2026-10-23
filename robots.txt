@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sonanidhruv64.github.io/jewelry-gift-sets/sitemap.xml
